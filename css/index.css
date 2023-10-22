@@ -5,10 +5,20 @@
 .main
 {
  display: flex;
+justify-content: space-between;
+background-color: rgba(69, 69, 72, 0.648);
+height: 100px;
 }
 
 .home {
-    background-color:bisque;
+    background-color:rgb(211, 255, 196);
+    width: 300px;
+    height: 30px;
+}
+
+.aboutus
+{
+    background-color: rgb(236, 17, 17);
     width: 300px;
     height: 30px;
 }
